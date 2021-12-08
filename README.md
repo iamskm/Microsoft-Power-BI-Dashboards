@@ -1,2 +1,8 @@
 # Microsoft-Power-BI-Dashboards
-This is my github repository for sharing my power bi dashboards
+
+Hello. 
+
+This is shaikh muzammil and thhis is my github repository for sharing my power bi dashboards
+
+email: muzammil188@gmail.com
+
